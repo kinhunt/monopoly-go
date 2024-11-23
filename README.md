@@ -455,4 +455,3 @@ curl http://localhost:8080/api/games/game1/status
 }
 ```
 
-这些测试用例涵盖了所有主要功能，可以用来验证API的正确性。需要我解释任何具体的测试用例吗？
